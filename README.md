@@ -1,5 +1,7 @@
 <p align=”center”>
-[Dev cover](https://github.com/MrRonnie/MrRonnie/assets/97013902/33a434cb-6c17-4039-8acc-1929b4790ebb)
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
 </p>
 <h1 align="center">Hi 👋, I'm Omar Faruk Ronnie</h1>
 <h3 align="center">A Frontend focused Full-stack developer who functions on caffeine</h3>
