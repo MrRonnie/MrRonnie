@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/MrRonnie/MrRonnie/assets/97013902/8d921f88-90b1-48ec-8ef0-f78e556b4e9f)
+![github-header-image (3)](https://github.com/MrRonnie/MrRonnie/assets/97013902/8b5c95c3-a09e-4852-962c-16f5b313d482)
 
 
 <h1 align="center">Hi 👋, I'm Omar Faruk Ronnie</h1>
