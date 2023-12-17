@@ -1,3 +1,6 @@
+<p align=”center”>
+[Dev cover](https://github.com/MrRonnie/MrRonnie/assets/97013902/33a434cb-6c17-4039-8acc-1929b4790ebb)
+</p>
 <h1 align="center">Hi 👋, I'm Omar Faruk Ronnie</h1>
 <h3 align="center">A Frontend focused Full-stack developer who functions on caffeine</h3>
 
