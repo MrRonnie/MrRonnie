@@ -1,4 +1,5 @@
-![Header](./https://github.com/MrRonnie/MrRonnie/assets/97013902/e2d923b5-dfea-4651-8091-09e9f2dd9c81)
+![github-header-image](https://github.com/MrRonnie/MrRonnie/assets/97013902/8d921f88-90b1-48ec-8ef0-f78e556b4e9f)
+
 
 <h1 align="center">Hi 👋, I'm Omar Faruk Ronnie</h1>
 <h3 align="center">A Frontend focused Full-stack developer who functions on caffeine</h3>
