@@ -1,6 +1,5 @@
 <p align=”center”>
-
-![Header](./your-header-image-name.png)
+![github-header-image](https://github.com/MrRonnie/MrRonnie/assets/97013902/922d0d4d-1815-4595-944d-4e39e1078a92)
 
 </p>
 <h1 align="center">Hi 👋, I'm Omar Faruk Ronnie</h1>
